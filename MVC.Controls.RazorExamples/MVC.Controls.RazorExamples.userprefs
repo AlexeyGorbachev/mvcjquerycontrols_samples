@@ -1,0 +1,55 @@
+﻿<Properties StartupItem="MVC.Controls.RazorExamples/MVC.Controls.RazorExamples.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="iceweasel" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC.Controls.RazorExamples/Views/Web.config">
+    <Files>
+      <File FileName="MVC.Controls.RazorExamples/Models/AccountModels.cs" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Web.config" Line="14" Column="47" />
+      <File FileName="MVC.Controls.RazorExamples/Web.Debug.config" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Web.Release.config" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Shared/_Layout.cshtml" Line="26" Column="62" />
+      <File FileName="MVC.Controls.RazorExamples/Global.asax" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Web.config" Line="12" Column="2" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Shared/_LogOnPartial.cshtml" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Home/Index.cshtml" Line="4" Column="30" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Account/ChangePassword.cshtml" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Account/LogOn.cshtml" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Account/ChangePasswordSuccess.cshtml" Line="9" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Controls/Tab1.ascx" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Controls/Tab2.ascx" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Controls/Controls.cshtml" Line="30" Column="5" />
+      <File FileName="MVC.Controls.RazorExamples/Controllers/AccountController.cs" Line="10" Column="11" />
+      <File FileName="MVC.Controls.RazorExamples/Controllers/ControlsController.cs" Line="7" Column="49" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Controls/Accordion1.ascx" Line="1" Column="1" />
+      <File FileName="MVC.Controls.RazorExamples/Views/Controls/Accordion2.ascx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC.Controls.RazorExamples" expanded="True">
+            <Node name="MVC.Controls.RazorExamples" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Controls" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Web.config" selected="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
